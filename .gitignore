@@ -1,0 +1,5 @@
+*~
+env*
+htmlcov*
+Gemfile.lock
+.bundle
