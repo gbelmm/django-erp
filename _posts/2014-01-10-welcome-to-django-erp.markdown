@@ -41,7 +41,7 @@ The new name, **django ERP**, emphasizes the importance of [Django] framework an
 
 The logo is an optical illusion: what do you see? An **hand-cursor** (*technology*, *web*) or a **swan** (*elegance*, *freedom*)?
 
-![django ERP logo](/static/logo.png)
+![django ERP logo]({{ site.baseurl }}/static/logo.png)
 
 The **vision** is all here: *technology, accessibility, elegance and freedom*.
 
