@@ -9,7 +9,7 @@ Welcome to the new website of **django ERP** project!
 ## A brief introduction
 ### First of all: what *django ERP* is?
 
-Well, as its name says, **django ERP** is an *open-source*, *user-oriented*, **ERP system** based on [Django Framework](Django). Its story starts in 2006, when its founder, **Emanuele Bertoldi**, decided to develop an ERP system for small and medium companies based on [Python]. At that time, most of ERP solutions were based on old technologies and paradigms, with ugly **UIs** and complex workflows, so the *vision* was to create a solution with an elegant UI and some basics but effective applications to help the users in big problems, leaving the rest to the everyday office suites.
+Well, as its name says, **django ERP** is an *open-source*, *user-oriented*, **ERP system** based on [Django Framework] [Django]. Its story starts in 2006, when its founder, **Emanuele Bertoldi**, decided to develop an ERP system for small and medium companies based on [Python]. At that time, most of ERP solutions were based on old technologies and paradigms, with ugly **UIs** and complex workflows, so the *vision* was to create a solution with an elegant UI and some basics but effective applications to help the users in big problems, leaving the rest to the everyday office suites.
 
 At that time, the project took the name of [Prometeo ERP] and it was just a desktop-based solution based on [wxWidgets]. After one year, more or less, Emanuele decided to rewrite the entire codebase from scratch basing the entire project over a solid *web-based framework*... That day, [Django] officially entered in the game.
 
@@ -31,7 +31,7 @@ Well, our defense could simply be: yes, we know, and this is *usually* true.
 
 ### But...
 
-We decided to fork a **new brand project**, based on [Prometeo ERP] experience, taking advantages of new technologies (**i.e.** *[HTML5]*, *[Django]>1.5.x*, *[jQuery]*, etc.), using a new development platform ([GitHub]) and switching to a new license model ([MIT](MIT License)).
+We decided to fork a **new brand project**, based on [Prometeo ERP] experience, taking advantages of new technologies (**i.e.** *[HTML5]*, *[Django]>1.5.x*, *[jQuery]*, etc.), using a new development platform ([GitHub]) and switching to a new license model ([MIT] [MIT License]).
 
 The new brand it's not just a matter of name, **it's a new project identity and philosophy**.
 
@@ -56,11 +56,11 @@ The new **django ERP** philosophy is based on **four keys points**:
  
 Regarding the source code, the following programming paradigms will be used:
 
- 1. [**Test driven development**](TDD) (TDD): maybe your business is not mission-critical like a space shuttle launch, but for us, like you, ***it is***. So we use the same methodology used to launch a space shuttle: test, test and test again your code. **Our plan is to cover every line of our core technology by a test case**.
+ 1. [**Test driven development**] [TDD] (TDD): maybe your business is not mission-critical like a space shuttle launch, but for us, like you, ***it is***. So we use the same methodology used to launch a space shuttle: test, test and test again your code. **Our plan is to cover every line of our core technology by a test case**.
  
- 2. [**Keep it simple, stupid**](KISS) (KISS): if the software should be extensible, should also be easy to understand. This principle cover each aspect of **django ERP**, from *source code architecture*, to *UI layout*. **Our plan is to make the software simple to understand and simple to modify**.
+ 2. [**Keep it simple, stupid**] [KISS] (KISS): if the software should be extensible, should also be easy to understand. This principle cover each aspect of **django ERP**, from *source code architecture*, to *UI layout*. **Our plan is to make the software simple to understand and simple to modify**.
  
- 3. [**Release early, release often**](Release early): what's the point to develop an awesome piece of software if users have to wait for a long time in order to use it? Our opinion is the risk of loosing opportunities is too high. Furthermore, to make an awesome **ERP solution** we need **feedback from users**. Early. **Our plan is to release for each new big feature (a new *app*, a new *system-wide function*, etc.)**.
+ 3. [**Release early, release often**] [Release early]: what's the point to develop an awesome piece of software if users have to wait for a long time in order to use it? Our opinion is the risk of loosing opportunities is too high. Furthermore, to make an awesome **ERP solution** we need **feedback from users**. Early. **Our plan is to release for each new big feature (a new *app*, a new *system-wide function*, etc.)**.
  
  4. **Limit your dependencies**: we know that reinvent the wheel every time is time-consuming and error-prone. But we also dislike the opposite: too many dependencies make the software hard to manage and maintain. And so? **Our plan is to be very careful about adding new dependencies to the system. We want an easy install process and upgrade policy**.
  
@@ -72,7 +72,7 @@ But now, the best part comes: this is a **free** and **open-source** project, re
 
 It also means that your needs are not just a **customization**: they could be part of the **core** from the beginning. **We're open to any discussion, suggestion and contribution**.
 
-So, what are you waiting for? [**Be the first!**](How to contribute)
+So, what are you waiting for? [**Be the first!**] [How to contribute]
 
 ## Roadmap
 
@@ -82,9 +82,11 @@ To know more about **django ERP** releases, please read the [official release po
 
 ## How to contribute
 
-If you want to contribute, please follow the instructions reported [here](How to contribute).
+If you want to contribute, please follow the instructions reported [here] [How to contribute].
 
 **Thank you!**
+
+***django ERP Team***
 
 [Django]: https://www.djangoproject.com
 [Python]: http://www.python.org
