@@ -1,5 +1,19 @@
+# Linux
 *~
-env*
-htmlcov*
+
+# Virtualenv
+env
+
+# Unit test / coverage reports
+.coverage
+.tox
+htmlcov
+coverage.xml
+nosetests.xml
+
+# Ruby & Bundler
 Gemfile.lock
 .bundle
+
+# Jekyll
+_site
